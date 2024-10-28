@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tanvir Shorif</h1>
 <h3 align="center">Passionate Software Engineer with experience in designing, building, and optimizing software solutions. Skilled in Java, Python, JavaScript, PHP with a focus on creating scalable and efficient applications. I am studing my Master's Degree in Software Engineering at Ca Foscari University of Venice, Italy.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207…”>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirshorif&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirshorif" /> </p>
 
 - 🔭 I’m currently working on my thesis **'Agricultural Crop Yield Predication Based on Geographical and Climate Data Using Machine Learning'**
